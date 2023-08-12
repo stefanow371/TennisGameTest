@@ -62,8 +62,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="The_Score_Should_Increment_Once_A_Player_Scores\Given_The_Score_Is_0_0.cs" />
     <Compile Include="TennisGameTest.cs" />
-    <Compile Include="The_Score_Should_Increment_Once_A_Player_Scores\Given_The_Score_Is_15_15.cs" />
-    <Compile Include="The_Score_Should_Increment_Once_A_Player_Scores\Given_The_Score_Is_30_15.cs" />
+    <Compile Include="The_Score_Should_Increment_Once_A_Player_Scores\Receiver_Earns_A_Point.cs" />
+    <Compile Include="The_Score_Should_Increment_Once_A_Player_Scores\Server_Earns_A_Point.cs" />
     <Compile Include="The_Score_Should_Increment_Once_A_Player_Scores\Given_The_Score_Is_30_0.cs" />
   </ItemGroup>
   <ItemGroup>
